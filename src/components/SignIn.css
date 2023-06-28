@@ -1,0 +1,6 @@
+.bg-slack {
+  background-color: #4a154b;
+}
+.slackButton:hover {
+  background-color: #185f34 !important;
+}

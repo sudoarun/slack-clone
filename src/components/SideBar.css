@@ -1,0 +1,5 @@
+.sideLi:hover {
+  background-color: #4a154b;
+  cursor: pointer;
+  border-radius: 20px;
+}
